@@ -4,5 +4,6 @@
     "**/*.js": true,
     "tsconfig.json": true,
     ".gitignore": true,
+    "README.md": true,
   }
 }
