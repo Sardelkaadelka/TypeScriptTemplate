@@ -15,4 +15,4 @@ git clone https://github.com/Computer-Engineering-Major-Ort-Ariel/TypeScriptTemp
   replace `[YourProjectName]` with the name of your project.
 
 
-* Open the newly created folder.
+* Open the newly created folder and start working on your project!
